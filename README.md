@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sakshi Gupta</h1>
 <h3 align="center">Passionate about data science/analytics, excel in gathering business requirements and transforming business data into effective solutions</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sakshi320&label=Profile%20views&color=0e75b6&style=flat" alt="sakshi320" /> </p>
-
 <p align="left"> <a href="https://twitter.com/sakshigupta320" target="blank"><img src="https://img.shields.io/twitter/follow/sakshigupta320?logo=twitter&style=for-the-badge" alt="sakshigupta320" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
