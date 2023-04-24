@@ -1,7 +1,7 @@
 <h3 align="left">Hi 👋, I'm Sakshi Gupta</h3>
 <p align="left">Passionate about data science/analytics, excel in gathering business requirements and transforming business data into effective solutions</p>
 
-<p align="left"> <a href="https://twitter.com/sakshigupta320" target="blank"><img src="https://img.shields.io/twitter/follow/sakshigupta320?logo=twitter&style=for-the-badge" alt="sakshigupta320" /></a> </p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
