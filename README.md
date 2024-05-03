@@ -1,5 +1,5 @@
 <h3 align="left">Hi, I'm Sakshi Gupta</h3>
-<p align="left">I have a strong passion for business analytics and data science, possess over 5+ years of experience in this field. My expertise includes gathering business requirements, analyzing raw data to uncover key insights, and using these insights devloping effective solutions that resolves business problems.</p>
+<p align="left">I have a strong passion for business analytics and data science, possess over 5+ years of experience in this field. My expertise includes gathering business requirements, analyzing raw data to uncover key insights, develop reporting and using these insights devloping effective solutions that resolves business problems.</p>
 
 
 - 📫 How to reach me **sakshigupta320@gmail.com**
